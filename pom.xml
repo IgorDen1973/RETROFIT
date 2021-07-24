@@ -13,6 +13,8 @@
         <maven.compiler.target>15</maven.compiler.target>
         <allure-maven.version>2.14.0</allure-maven.version>
         <aspectj.version>1.9.6</aspectj.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
 
     <build>
